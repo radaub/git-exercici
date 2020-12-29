@@ -1,1 +1,1 @@
-Aquest és un fitxer .txt
+Aquest és un fitxer .txt modificat per segona vegada
