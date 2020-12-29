@@ -1,1 +1,2 @@
-Aquest és un fitxer .txt
+Aquest és un fitxer modificat
+
